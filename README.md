@@ -14,6 +14,6 @@
 <summary> <b>📈 &nbsp;Latest Activity Graph</b> </summary>
 <samp>
     <h6 align="center"> latest contribution </h6>
-    <img alt="Kamini's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=kaminikotekar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+    <img alt="Kamini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kaminikotekar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
     <br/>
 </samp>
