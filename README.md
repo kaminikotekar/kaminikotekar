@@ -1,19 +1,72 @@
-<h1 align="center"><b>Hi , I'm Kamini Kotekar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## Kamini Kotekar
 
-<summary><b>💻 &nbsp; GitHub Profile Stats</b></summary>
-<br/>
-<p align="center">
-    <a href="https://github.com/kaminikotekar/">
-    <img width="60.8%" src="https://github-readme-stats.vercel.app/api?username=kaminikotekar&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" alt="kaminikotekar" 
-    />
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminikotekar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kaminikotekar" />
-    </a>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaminikotekar&theme=tokyonight" alt="kaminikotekar" />
-</p>
 
-<summary> <b>📈 &nbsp;Latest Activity Graph</b> </summary>
-<samp>
-    <h6 align="center"> latest contribution </h6>
-    <img alt="Kamini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kaminikotekar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-    <br/>
-</samp>
+
+<em style="opacity:0.65"> Software Engineer • Solutions Architect • Cloud Developer</em>
+
+
+Systems-focused engineer working across backend, infrastructure, and cloud platforms. Comfortable moving between low-level code and distributed systems, with an emphasis on reliability and simplicity.
+
+Alongside the engineering work, I create custom illustrations and animations for my own projects where visuals help communicate behavior, state, or flow
+
+---
+
+### Languages I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### Cloud, Backend & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+
+**Capabilities**
+- Cloud-native application development (AWS)
+- Infrastructure as Code (Terraform)
+- Backend service design & API development
+- CI/CD pipeline design and automation
+- Secure, scalable cloud architectures
+
+---
+
+### Data & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- Strong SQL fundamentals
+- Data modeling & query optimization
+
+---
+
+### Machine Learning & Analytics
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-1AA6E0?style=for-the-badge&logo=rstudio&logoColor=white)
+
+
+---
+
+### Certifications
+
+- ☁️ **AWS Certified Developer – Associate**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+
+---
+
+⭐️ github.com/KaminiKotekar
