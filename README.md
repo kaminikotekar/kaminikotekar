@@ -1,13 +1,15 @@
 ## Kamini Kotekar
 
-
-
 <em style="opacity:0.65"> Software Engineer • Solutions Architect • Cloud Developer</em>
 
+<img align="right" src="assets/hello-pupper.gif" alt="hello pupper" width="260" style="opacity:0.95; margin-top:0" />
 
+<br><br>
 Systems-focused engineer working across backend, infrastructure, and cloud platforms. Comfortable moving between low-level code and distributed systems, with an emphasis on reliability and simplicity.
 
 Alongside the engineering work, I create custom illustrations and animations for my own projects where visuals help communicate behavior, state, or flow
+
+<br clear="right"/>
 
 ---
 
